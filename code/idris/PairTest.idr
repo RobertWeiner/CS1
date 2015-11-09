@@ -1,0 +1,3 @@
+module PairTest
+
+import pair
